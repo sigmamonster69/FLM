@@ -1,0 +1,9 @@
+<?php 
+$x = 0;
+if ($x == 5 ){
+    echo "less"
+
+}else {
+    echo"more";
+
+}
